@@ -35,7 +35,7 @@ pip install -r requirements.txt
         | blurry vision                               | Ophthalmology          | Optometrist           | ⚠️ (Close, but Ophthalmologist is more precise) |
         | numbness in hands and feet                  | Neurology              | Podiatrist (Foot Specialist) | ❌ (Incorrect, should be Neurology) |
         | unexplained weight loss                     | Endocrinology          | Oncologist, Surgical Oncologist | ⚠️ (Possible, but Endocrinology is more likely) |
-        | stomach pain                      | Gastroenterology       | Gastroenterology | ❌ (Correct) |
+        | stomach pain                      | Gastroenterology       | Gastroenterology | ✅ (Correct) |
         | difficulty swallowing                        | ENT / Gastroenterology | Pulmonologist, Cardiologist, Chest Physician | ❌ (Incorrect, should be ENT or Gastroenterology) |
         | skin rashes and itching                     | Dermatology            | Dermatologist         | ✅ (Correct) |
         | dizziness and balance issues                | Neurology / ENT        | Orthopedician         | ❌ (Incorrect, should be Neurology or ENT) |
